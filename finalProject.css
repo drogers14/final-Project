@@ -1,0 +1,22 @@
+
+h1{font-family: Impact, Charcoal, sans-serif;
+  font-size:100px;
+  color: black;
+  width:60%;
+  letter-spacing:-2px;
+
+}
+body{background-image: url(http://static.tumblr.com/3e741e06c57ca4f0d010bde6aad42c27/k9zviu5/8X2nzu2bx/tumblr_static_9wazuqa1szcwowwsw8408kokw.gif);
+
+}
+.name{
+    font-family: 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size:30px;
+
+}
+.name:hover{color:#3d5c5c}
+
+h2{color:#f7a19e;
+font-size:40px;
+}
