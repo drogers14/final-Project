@@ -1,0 +1,30 @@
+input{
+font-family: Copperplate,"Copperplate Gothic Light",fantasy;
+}
+  a:link, a:visited {
+      background: url(http://rs1269.pbsrc.com/albums/jj588/CutePixelIcons/Cute%20Pixel%20Icons/star_icon_by_plasticumbrella-d37qlyo.gif~c200);
+      color: black;
+      padding: 80px 30px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-family: 'Helvetica Neue', sans-serif;
+  }
+span{
+  color:red;
+}
+span:hover{color:#3d5c5c}
+body{
+  background-image: url(http://wallpapercave.com/wp/sScwdFB.jpg);
+}
+h1{
+  color: #010101;
+  font-style: oblique;
+  font-size: 250%;
+  font-family:Copperplate,"Copperplate Gothic Light",fantasy;
+}
+h2{
+  font-style: oblique;
+  font-size: 150%;
+  font-family:Copperplate,"Copperplate Gothic Light",fantasy;
+}
